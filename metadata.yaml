@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '9928'
     url: http://www.gutenberg.org/2009/agents/9928
     wikipedia: https://en.wikipedia.org/wiki/Alfred_Pearse
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stooke, Eleanora H.
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '55669'
     url: http://www.gutenberg.org/2009/agents/55669
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72274#A-song-bird
 gutenberg_issued: '2023-12-01'
 identifiers:
   gutenberg: '72274'
